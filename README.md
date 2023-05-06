@@ -4,10 +4,10 @@ Molly MacLaren
 
 ## Expose
 
-https://github.com/mojeanmac/CSE110-Lab5/blob/master/expose.html
+https://mojeanmac.github.io/CSE110-Lab5/expose.html
 
 ## Explore
 
-https://github.com/mojeanmac/CSE110-Lab5/blob/master/explore.html
+https://mojeanmac.github.io/CSE110-Lab5/explore.html
 
 https://github.com/mojeanmac/CSE110-Lab5/blob/master/.github/workflows/learn-github-actions.yml
